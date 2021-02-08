@@ -1,5 +1,5 @@
 # autocrop
-The objective is to crop an image automatically given specific resolution. This can be used to preprocess training images for vision problem e.g., preprocess masked and unmasked images for segmetation task. 
+The objective is to crop an image automatically given specific dimension. This can be used to preprocess training images for vision problem e.g., preprocess masked and unmasked images for segmetation task. 
 
 # How to run:
 1. Install the opencv for python.
