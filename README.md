@@ -22,3 +22,5 @@ The objective is to crop an image automatically given specific resolution. This 
 
 6. Run the crop.py
 
+7. Check the cropped_image directory for the cropped images.
+
