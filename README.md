@@ -18,7 +18,7 @@ The objective is to crop an image automatically given specific resolution. This 
 
 4. Open the crop.py and set the file_num variable with the intended file number, which you want to crop. (For IMG13: just set the value as 13)
 
-5. For other specifications, you can also change the intended height & width, pixel density. 
+5. For other specifications, you can also change the intended height & width, and pixel density. 
 
 6. Run the crop.py
 
