@@ -28,3 +28,31 @@ To run the autocrop.py please see the following instructions:
 
 7. Check the cropped_image directory for the cropped images.
 ```
+To run the superimpose.py please see the following instructions: 
+```
+1. Create 3 directories to store the masked, unmasked and superimposed images.
+> masked_imge
+> unmasked_image
+> superimposed_image
+
+2. Copy the orginal images and paste into the unmasked_image directory. Copy the masked images and paste those into the masked_image directory.
+
+3. Open superimpose.py and set the file_num variable ('image number'). The opacity of the superimposed image can also be controlled using the alpha variable. The color variable is to set the intended color. 
+
+4. Run the superimpose.py. 
+
+5. The converted images will be stored into the superimposed_image. 
+
+```
+
+To run the gimp2pngconversion.py please see the following instructions: 
+```
+1. Place the .xcf file into any directory.
+
+2. Open Gimp. Goto Filters > Python-Fu > Console.
+
+3. Copy the code inside of gimp2pngconversion.py and paste it in the console. Hit enter. 
+
+4. The visible layer of the .xcf files will be converted to .png.
+
+```
