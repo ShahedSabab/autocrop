@@ -1,4 +1,6 @@
-# autocrop
+# imagePrep
+The objective of this project is to prepare images for the segmentation tasks. This can be used as an immediate image pre-processing step for vision models such as [SDD-Net]: https://www.researchgate.net/publication/336358391_SDDNet_Real-time_Crack_Segmentation and [U-Net]: https://arxiv.org/abs/1505.04597. There are 3 pre-processing   
+
 The objective is to crop an image automatically given specific dimension. This can be used to preprocess training images for vision problem e.g., preprocess masked and unmasked images for segmentation task. 
 
 # How to run:
