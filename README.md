@@ -2,22 +2,20 @@
 The objective of this project is to prepare images for the segmentation tasks. This can be used as an immediate image pre-processing step for vision models such as [https://www.researchgate.net/publication/336358391_SDDNet_Real-time_Crack_Segmentation]: SDD-Net  and [https://arxiv.org/abs/1505.04597]: U-Net. There are different pre-processing scripts avaialble in this repo. They are the followings:
 
 • autocop.py: This can be used to crop a larger image into smaller portions given dimensions, and pixel density.
+
 • superimpose.py: This can be used to superimpose 2 different images.
+
 • gimp2pngconversion.py: This can be used to convert a .xcf file to png. 
 
 # How to run:
 To run the autocrop.py please see the following instructions: 
 ```
 1. Install the opencv for python.
-
 > pip install opencv-python
 
 2. Create 3 directories to store the training images. 
-
 > masked_image
-
 > unmasked_image
-
 > cropped_image
 
 3. Copy the original images to the unmasked_image directory and masked images to the masked_image directory.
