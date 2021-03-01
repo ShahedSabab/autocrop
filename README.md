@@ -20,7 +20,7 @@ To run the autocrop.py please see the following instructions:
 
 3. Copy the original images to the unmasked_image directory and masked images to the masked_image directory.
 
-4. Open the crop.py and set the file_num variable with the intended file number, which you want to crop. (For IMG13: just set the value as 13)
+4. Open the crop.py.
 
 5. For other modifications, you can also change the intended height & width, and pixel density. 
 
