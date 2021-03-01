@@ -1,5 +1,5 @@
 # imagePrep
-The objective of this project is to prepare images for the segmentation tasks. This can be used as an immediate image pre-processing step for vision models such as [https://www.researchgate.net/publication/336358391_SDDNet_Real-time_Crack_Segmentation]: SDD-Net  and [https://arxiv.org/abs/1505.04597]: U-Net. There are different pre-processing scripts avaialble in this repo. They are the followings:
+The objective of this project is to prepare images for the segmentation tasks. This can be used as an immediate image pre-processing step for vision models such as [SDD-Net]: (https://www.researchgate.net/publication/336358391_SDDNet_Real-time_Crack_Segmentation)  and [U-Net]: (https://arxiv.org/abs/1505.04597). There are different pre-processing scripts avaialble in this repo. They are the followings:
 
 • autocop.py: This can be used to crop a larger image into smaller portions given dimensions, and pixel density.
 
