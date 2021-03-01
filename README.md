@@ -37,7 +37,7 @@ To run the superimpose.py please see the following instructions:
 
 2. Copy the orginal images and paste into the unmasked_image directory. Copy the masked images and paste those into the masked_image directory.
 
-3. Open superimpose.py and set the file_num variable ('image number'). The opacity of the superimposed image can also be controlled using the alpha variable. The color variable is to set the intended color. 
+3. Open superimpose.py. The opacity of the superimposed image can also be controlled using the alpha variable. The color variable is to set the intended color. 
 
 4. Run the superimpose.py. 
 
